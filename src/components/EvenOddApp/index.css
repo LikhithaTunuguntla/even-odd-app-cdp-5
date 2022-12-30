@@ -1,0 +1,41 @@
+/* Write your CSS here */
+.container {
+  height: 100vh;
+  padding: 30px;
+}
+.even-odd-container {
+  background-image: linear-gradient(#ff6e7f, #bfe9ff);
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  color: #0f172a;
+  font-family: 'Roboto';
+  font-size: 32px;
+}
+
+.desc {
+  color: #334155;
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+
+.descrip {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-size: 12px;
+}
+
+.button {
+  background-color: #ffffff;
+  border: 2px solid 10px;
+  color: #334155;
+  font-family: 'Roboto';
+  font-size: 12px;
+  width: 150px;
+  height: 30px;
+}
